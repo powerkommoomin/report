@@ -1,4 +1,4 @@
-for var in {1..100..5}
+for var in {100..1..-5}
 do
 	echo $var
 done
